@@ -23,7 +23,11 @@ Google Widevine - on Linux systems is required WV library.
 ### IPTV Simple PVR
 IPTV Live TV and Radio PVR client addon.
  - Source: https://github.com/kodi-pvr/pvr.iptvsimple/tree/Piers
- 
+
+### NextPVR PVR
+Kodi's NextPVR client addon.
+ - Source: https://github.com/kodi-pvr/pvr.nextpvr/tree/Piers
+
 ### InputStream RTMP
 - Source: https://github.com/xbmc/inputstream.rtmp/tree/Piers
 
