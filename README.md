@@ -6,7 +6,15 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 Addons for Kodi v22 Piers for Linux distributions based on Debian and Ubuntu. For development purpose only.
-
+```
+v22.0.0-Piers-2024-08-05-inputstream.rtmp.zip
+v22.0.0-Piers-2024-08-05-peripheral.joystick.zip
+v22.0.0-Piers-2024-08-05-vfs.libarchive.zip
+v22.1.2-Piers-2025-07-13-inputstream.ffmpegdirect.zip
+v22.2.5-Piers-2025-07-13-inputstream.adaptive.zip
+v22.4.2-Piers-2025-05-04-pvr.nextpvr.zip
+v22.5.1-Piers-2025-05-04-pvr.iptvsimple.zip
+```
 ## Installation & Updates
 > ###### Add-ons are in the repository: [Repozytorium-Kodi](https://github.com/Repozytorium-Kodi/Repozytorium-Kodi/releases/download/v1.0.4/Repozytorium-Kodi-1.0.4.zip)
 > ###### Installation via Kodi's file-manager, add source: https://repozytorium-kodi.github.io
